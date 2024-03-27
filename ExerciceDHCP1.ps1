@@ -1,4 +1,7 @@
-﻿# Fonction pour créer une étendue DHCP avec plage d'adresses
+﻿## Frahati AHAMADI
+### 27/03/2024
+##Exercice DHCP
+# Fonction pour créer une étendue DHCP avec plage d'adresses
 function CreerEtendueDHCP {
     param(
         [string]$NomEtendue,
